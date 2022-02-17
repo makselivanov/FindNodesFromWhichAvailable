@@ -4,5 +4,5 @@ all: main.cpp
 run: main
 	./main
 
-clean: main
+clean:
 	rm main
